@@ -3,12 +3,17 @@ The game board consists of sixteen "cards" arranged in a grid. The deck is made 
 ## Table of Contents
 
 * [Getting Started](#Getting-Started)
+* [Deployment](#Deployment)
 * [Built With](#Built-With)
 * [Contributing](#contributing)
 
 ## Getting Started
 
 To get started, just open `index.html` and start playing
+
+## Deployment
+PLAY NOW ! 
+http://ahmed-abdelslam.epizy.com/Arcade-Game/
 
 ## Built With
 
