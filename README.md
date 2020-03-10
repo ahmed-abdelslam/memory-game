@@ -13,7 +13,7 @@ To get started, just open `index.html` and start playing
 
 ## Deployment
 PLAY NOW ! 
-http://ahmed-abdelslam.epizy.com/Arcade-Game/
+http://ahmed-abdelslam.epizy.com/Memory-Game/
 
 ## Built With
 
