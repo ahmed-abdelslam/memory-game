@@ -13,7 +13,7 @@ To get started, just open `index.html` and start playing
 
 ## Deployment
 PLAY NOW ! 
-http://ahmed-abdelslam.epizy.com/Memory-Game/
+https://astonishing-blini-c396a6.netlify.app/
 
 ## Built With
 
